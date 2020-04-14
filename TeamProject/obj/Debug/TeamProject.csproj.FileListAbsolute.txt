@@ -1,0 +1,147 @@
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\TeamProject.dll.config
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\TeamProject.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\TeamProject.pdb
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\csc.exe
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\csc.exe.config
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\csc.rsp
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\csi.exe
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\csi.exe.config
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\csi.rsp
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.AppContext.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Console.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Net.Http.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\vbc.exe
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\vbc.exe.config
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\vbc.rsp
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Antlr3.Runtime.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Newtonsoft.Json.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\System.Web.Optimization.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\WebGrease.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\System.Web.Optimization.xml
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Newtonsoft.Json.xml
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Antlr3.Runtime.pdb
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.csprojAssemblyReference.cache
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.dll
+C:\Users\Binv's Computer\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+E:\TeamProject\TeamProject\bin\TeamProject.dll.config
+E:\TeamProject\TeamProject\bin\TeamProject.dll
+E:\TeamProject\TeamProject\bin\TeamProject.pdb
+E:\TeamProject\TeamProject\bin\roslyn\csc.exe
+E:\TeamProject\TeamProject\bin\roslyn\csc.exe.config
+E:\TeamProject\TeamProject\bin\roslyn\csc.rsp
+E:\TeamProject\TeamProject\bin\roslyn\csi.exe
+E:\TeamProject\TeamProject\bin\roslyn\csi.exe.config
+E:\TeamProject\TeamProject\bin\roslyn\csi.rsp
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TeamProject\TeamProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.AppContext.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Collections.Immutable.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Console.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Globalization.Calendars.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.IO.Compression.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.IO.FileSystem.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Net.Http.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Net.Sockets.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.ValueTuple.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Xml.XPath.dll
+E:\TeamProject\TeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TeamProject\TeamProject\bin\roslyn\vbc.exe
+E:\TeamProject\TeamProject\bin\roslyn\vbc.exe.config
+E:\TeamProject\TeamProject\bin\roslyn\vbc.rsp
+E:\TeamProject\TeamProject\bin\roslyn\VBCSCompiler.exe
+E:\TeamProject\TeamProject\bin\roslyn\VBCSCompiler.exe.config
+E:\TeamProject\TeamProject\bin\Antlr3.Runtime.dll
+E:\TeamProject\TeamProject\bin\AspNet.ScriptManager.bootstrap.dll
+E:\TeamProject\TeamProject\bin\AspNet.ScriptManager.jQuery.dll
+E:\TeamProject\TeamProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\TeamProject\TeamProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\TeamProject\TeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TeamProject\TeamProject\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\TeamProject\TeamProject\bin\Microsoft.ScriptManager.WebForms.dll
+E:\TeamProject\TeamProject\bin\Microsoft.Web.Infrastructure.dll
+E:\TeamProject\TeamProject\bin\Newtonsoft.Json.dll
+E:\TeamProject\TeamProject\bin\System.Web.Optimization.dll
+E:\TeamProject\TeamProject\bin\WebGrease.dll
+E:\TeamProject\TeamProject\bin\System.Web.Optimization.xml
+E:\TeamProject\TeamProject\bin\Newtonsoft.Json.xml
+E:\TeamProject\TeamProject\bin\Antlr3.Runtime.pdb
+E:\TeamProject\TeamProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\TeamProject\TeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TeamProject\TeamProject\obj\Debug\TeamProject.csprojAssemblyReference.cache
+E:\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+E:\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+E:\TeamProject\TeamProject\obj\Debug\TeamProject.dll
+E:\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
